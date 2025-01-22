@@ -19,3 +19,19 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+# Projeto de Phishing
+
+Este repositório contém os arquivos e scripts utilizados para simular um ataque de phishing.
+
+**Objetivo:** Demonstrar as técnicas utilizadas em ataques de phishing e a importância da segurança online.
+
+**Tecnologias:**
+* Kali Linux
+* Setoolkit
+* Python
+
+**Instruções:**
+1. Clone este repositório.
+2. Configure o ambiente Kali Linux conforme as instruções acima.
+3. Execute os scripts Python para iniciar o ataque.
+
